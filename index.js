@@ -1,4 +1,4 @@
-var random1 = Math.floor(Math.random(5)*6)+1;
+var random1 = Math.floor(Math.random()*6)+1;
 
 var source1 = "images/dice" + random1 + ".png";
 
